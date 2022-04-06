@@ -32,42 +32,27 @@ const Skills = () => {
         <div className="parameter">
           <div className="language">
             <p className="details">html</p>
-            <div style={{ width: "90%" }}></div>
-            <span className="skill-count" style={{ left: "86%" }}>
-              90%
-            </span>
+            <div style={{ width: "100%" }}></div>
           </div>
 
           <div className="language">
-            <p className="details">sass</p>
-            <div style={{ width: "85%" }}></div>
-            <span className="skill-count" style={{ left: "77%" }}>
-              85%
-            </span>
+            <p className="details">scss</p>
+            <div style={{ width: "100%" }}></div>
           </div>
 
           <div className="language">
             <p className="details">css</p>
-            <div style={{ width: "88%" }}></div>
-            <span className="skill-count" style={{ left: "83%" }}>
-              88%
-            </span>
-          </div>
-
-          <div className="language">
-            <p className="details">reactjs</p>
-            <div style={{ width: "69%" }}></div>
-            <span className="skill-count" style={{ left: "63%" }}>
-              69%
-            </span>
+            <div style={{ width: "100%" }}></div>
           </div>
 
           <div className="language">
             <p className="details">javascript</p>
-            <div style={{ width: "76%" }}></div>
-            <span className="skill-count" style={{ left: "72%" }}>
-              76%
-            </span>
+            <div style={{ width: "100%" }}></div>
+          </div>
+
+          <div className="language">
+            <p className="details">reactJS</p>
+            <div style={{ width: "100%" }}></div>
           </div>
         </div>
       </div>
